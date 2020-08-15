@@ -1,4 +1,4 @@
-TweetPipe-Analysis
+TweetPipe-Analyser
 ==============
 Spring Boot Kafka consumer application that consumes tweets from a Kafka topic (via Cloud Stream integration) and 
 performs sentiment analysis (using Stanford NLP library) on them, emitting one of the following sentiment ratings for 
