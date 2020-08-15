@@ -3,6 +3,7 @@ spring:
     stream:
       bindings:
         input:
+          content-type: application/json
           destination: tracking
       kafka:
         binder:
