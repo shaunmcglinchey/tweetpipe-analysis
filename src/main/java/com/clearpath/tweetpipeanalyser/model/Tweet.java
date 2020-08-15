@@ -1,4 +1,4 @@
-package com.clearpath.tweetpipeanalyser;
+package com.clearpath.tweetpipeanalyser.model;
 
 public class Tweet {
 

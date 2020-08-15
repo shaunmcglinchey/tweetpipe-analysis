@@ -1,5 +1,6 @@
-package com.clearpath.tweetpipeanalyser;
+package com.clearpath.tweetpipeanalyser.service;
 
+import com.clearpath.tweetpipeanalyser.model.Sentiment;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.neural.rnn.RNNCoreAnnotations;
 import edu.stanford.nlp.pipeline.Annotation;
